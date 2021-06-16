@@ -6,7 +6,7 @@ To play with, just run `python example.py`
 To know how it works, please check `example.py`.  
 (Your python need to have PySimpleGUI library to do this.)
 ### If you want to try without Python,
-Check the Packages on right side, I made .exe file for Windows.
+Check the `Release` on right side, I made .exe file for Windows.
 
 ## Original JoyStick codes
 Please refer to https://github.com/AiueoABC/GUI_JoyStick
